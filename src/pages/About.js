@@ -43,12 +43,13 @@ const About = () => {
       <section className="services">
         <Title title="Ideal Property Hub for you" />
         <p>
-          Statutory and financial obligations whilst finding the most suitable,
-          fully referenced tenants for your property. Whether you are a landlord
-          looking for a let only, rent collection or full management service,
-          Propriété will help you with your legal, statutory and financial
-          obligations whilst finding the most suitable, fully referenced tenants
-          for your property.
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+         cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id 
+         est laborum."
         </p>
         <br />
         <br />
