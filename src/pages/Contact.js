@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 
 
-import emailjs from "@emailjs/browser";
+import emailjs from "@emailjs/browser" ;
 import Swal from 'sweetalert2';
 
 const SERVICE_ID = "service_m24rprv";
